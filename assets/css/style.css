@@ -1,0 +1,50 @@
+
+/* Where all the content will go */
+.container {
+	height: auto;
+	width: 100%;
+}
+/* Editing the title on the page and its design */
+.jumbotron {
+    opacity: 0.9;
+    border: 2px solid white;
+    height: 200px;
+
+  
+}
+
+/* side Gif dimensions */
+img {
+    height:125px;
+    width: 200px;
+    margin-top: 5px;
+    
+  }
+  /* Positioning Gif to left and right */
+  #leftgif{
+    float: left
+  }
+  
+  #rightgif{
+    float: right;
+  }
+
+
+/* Panels where the input forms are and user inputs information */
+.panel {
+	opacity: 0.95;
+}
+
+.panel > .panel-heading {
+    background-color:  whitesmoke;
+    color: white;
+}
+
+
+/* Add train button */
+#addTrnBtn {
+    background-color: black;
+    color: white;
+    border: none;
+    float: right;
+}
