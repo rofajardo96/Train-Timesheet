@@ -35,16 +35,17 @@ img {
 	opacity: 0.95;
 }
 
+/* Add train button */
+#addTrnBtn {
+  background-color: black;
+  color: white;
+  border: none;
+  float: right;
+}
+
 .panel > .panel-heading {
     background-color:  whitesmoke;
     color: white;
 }
 
 
-/* Add train button */
-#addTrnBtn {
-    background-color: black;
-    color: white;
-    border: none;
-    float: right;
-}
